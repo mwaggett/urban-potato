@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 evening_activities = [
   'listen to podcasts',
   'cook food',
